@@ -12,7 +12,7 @@
       "minWeight": 0,
       "weightMap": [
         {
-          "block": "minecraft:gold_ore",
+          "block": "create:crushed_gold_ore",
           "weight": 30
         },
         {
@@ -36,7 +36,7 @@
           "weight": 80
         },
         {
-          "block": "minecraft:lapis_ore",
+          "block": "tfc:ore/lapis_lazuli_ore",
           "weight": 60
         },
         {
@@ -45,7 +45,7 @@
         }
       ],
       "fill": {
-        "block": "minecraft:iron_ore"
+        "block": "create:crushed_iron_ore"
       },
       "shell": {
         "tag": "forge:cobblestone",
@@ -58,11 +58,11 @@
       "minWeight": 1000,
       "weightMap": [
         {
-          "block": "minecraft:iron_ore",
+          "block": "create:crushed_iron_ore",
           "weight": 400
         },
         {
-          "block": "minecraft:gold_ore",
+          "block": "create:crushed_gold_ore",
           "weight": 30
         },
         {
@@ -86,7 +86,7 @@
           "weight": 80
         },
         {
-          "block": "minecraft:lapis_ore",
+          "block": "tfc:ore/lapis_lazuli_ore",
           "weight": 60
         },
         {

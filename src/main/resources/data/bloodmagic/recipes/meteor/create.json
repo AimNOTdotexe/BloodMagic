@@ -20,7 +20,7 @@
           "weight": 100
         },
         {
-          "tag": "minecraft:iron_ore",
+          "tag": "create:crushed_iron_ore",
           "weight": 50
         }
       ],

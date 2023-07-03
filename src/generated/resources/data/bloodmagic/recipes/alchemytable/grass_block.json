@@ -8,7 +8,7 @@
       "item": "minecraft:bone_meal"
     },
     {
-      "item": "minecraft:wheat_seeds"
+      "item": "tfc:seeds/wheat"
     }
   ],
   "output": {

@@ -1,6 +1,6 @@
 {
   "name": "Strength",
-  "icon": "minecraft:blaze_powder",
+  "icon": "tfc:ore/lignite",
   "category": "bloodmagic:alchemy_table/potion_flasks/vanilla",
   "pages": [
     {

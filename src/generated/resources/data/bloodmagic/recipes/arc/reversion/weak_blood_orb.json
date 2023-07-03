@@ -8,7 +8,7 @@
     "tag": "bloodmagic:arc/reverter"
   },
   "output": {
-    "item": "minecraft:diamond"
+    "item": "tfc:gem/diamond"
   },
   "consumeingredient": true,
   "mainoutputchance": 0.0

@@ -19,7 +19,7 @@
       "mainchance": 1.0,
       "chance": 0.0,
       "type": {
-        "item": "minecraft:netherite_scrap",
+        "item": "kubejs:red_steel_chain_mesh",
         "count": 4
       }
     }

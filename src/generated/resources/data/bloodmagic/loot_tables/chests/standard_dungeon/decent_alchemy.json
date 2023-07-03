@@ -126,7 +126,7 @@
               "add": false
             }
           ],
-          "name": "minecraft:nether_wart"
+          "name": "tfc:food/tomato"
         },
         {
           "type": "minecraft:item",
@@ -228,7 +228,7 @@
               "add": false
             }
           ],
-          "name": "minecraft:blaze_powder"
+          "name": "tfc:ore/lignite"
         },
         {
           "type": "minecraft:item",

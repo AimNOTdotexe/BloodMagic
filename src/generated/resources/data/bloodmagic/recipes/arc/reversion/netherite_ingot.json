@@ -12,13 +12,13 @@
       "mainchance": 1.0,
       "chance": 0.0,
       "type": {
-        "item": "minecraft:gold_ingot",
+        "item": "tfc:metal/ingot/gold",
         "count": 4
       }
     }
   ],
   "output": {
-    "item": "minecraft:netherite_scrap",
+    "item": "kubejs:red_steel_chain_mesh",
     "count": 4
   },
   "consumeingredient": false,

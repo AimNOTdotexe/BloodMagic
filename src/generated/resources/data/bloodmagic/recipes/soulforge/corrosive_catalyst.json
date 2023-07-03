@@ -10,7 +10,7 @@
     "tag": "forge:dusts/sulfur"
   },
   "input3": {
-    "item": "minecraft:wheat_seeds"
+    "item": "tfc:seeds/wheat"
   },
   "output": {
     "item": "bloodmagic:corrosivecatalyst"

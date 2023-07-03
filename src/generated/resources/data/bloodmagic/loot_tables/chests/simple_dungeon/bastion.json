@@ -83,7 +83,7 @@
               "add": false
             }
           ],
-          "name": "minecraft:gold_ingot"
+          "name": "tfc:metal/ingot/gold"
         },
         {
           "type": "minecraft:item",

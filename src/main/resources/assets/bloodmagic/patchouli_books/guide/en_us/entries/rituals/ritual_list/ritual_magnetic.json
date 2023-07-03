@@ -1,6 +1,6 @@
 {
   "name": "Ritual of Magnetism",
-  "icon": "minecraft:iron_ore",
+  "icon": "create:crushed_iron_ore",
   "category": "bloodmagic:rituals/ritual_list",
   "pages": [
     {

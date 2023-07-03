@@ -1,7 +1,7 @@
 {
   "type": "bloodmagic:livingdowngrade",
   "input": {
-    "item": "minecraft:ghast_tear"
+    "item": "tfc:powder/sulfur"
   },
   "resource": "bloodmagic:slow_heal"
 }

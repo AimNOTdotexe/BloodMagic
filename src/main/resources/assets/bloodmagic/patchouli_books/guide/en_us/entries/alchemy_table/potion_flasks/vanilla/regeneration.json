@@ -1,6 +1,6 @@
 {
   "name": "Regeneration",
-  "icon": "minecraft:ghast_tear",
+  "icon": "tfc:powder/sulfur",
   "category": "bloodmagic:alchemy_table/potion_flasks/vanilla",
   "pages": [
     {

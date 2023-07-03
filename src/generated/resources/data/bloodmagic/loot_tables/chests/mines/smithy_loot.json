@@ -170,7 +170,7 @@
               "add": false
             }
           ],
-          "name": "minecraft:diamond"
+          "name": "tfc:gem/diamond"
         },
         {
           "type": "minecraft:item",

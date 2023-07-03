@@ -1,6 +1,6 @@
 {
   "name": "Spike Array",
-  "icon": "minecraft:iron_ingot",
+  "icon": "tfc:metal/ingot/wrought_iron",
   "category": "bloodmagic:alchemy_array/functional_array",
   "pages": [
     {

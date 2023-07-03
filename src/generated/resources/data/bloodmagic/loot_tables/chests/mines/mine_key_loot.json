@@ -75,7 +75,7 @@
               "add": false
             }
           ],
-          "name": "minecraft:netherite_scrap"
+          "name": "kubejs:red_steel_chain_mesh"
         },
         {
           "type": "minecraft:item",
@@ -136,7 +136,7 @@
               "add": false
             }
           ],
-          "name": "minecraft:amethyst_shard"
+          "name": "tfc:powder/amethyst"
         },
         {
           "type": "minecraft:item",
@@ -187,7 +187,7 @@
               "add": false
             }
           ],
-          "name": "minecraft:lapis_lazuli"
+          "name": "tfc:ore/lapis_lazuli_lazuli"
         },
         {
           "type": "minecraft:item",
@@ -204,7 +204,7 @@
               "add": false
             }
           ],
-          "name": "minecraft:diamond"
+          "name": "tfc:gem/diamond"
         },
         {
           "type": "minecraft:item",

@@ -83,7 +83,7 @@
               "add": false
             }
           ],
-          "name": "minecraft:gold_ingot"
+          "name": "tfc:metal/ingot/gold"
         },
         {
           "type": "minecraft:item",
@@ -115,7 +115,7 @@
               "add": false
             }
           ],
-          "name": "minecraft:diamond"
+          "name": "tfc:gem/diamond"
         },
         {
           "type": "minecraft:item",
@@ -131,7 +131,7 @@
               "add": false
             }
           ],
-          "name": "minecraft:blaze_rod"
+          "name": "tfc:ore/bituminous_coal"
         }
       ]
     }

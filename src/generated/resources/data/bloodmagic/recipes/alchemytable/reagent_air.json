@@ -2,7 +2,7 @@
   "type": "bloodmagic:alchemytable",
   "input": [
     {
-      "item": "minecraft:ghast_tear"
+      "item": "tfc:powder/sulfur"
     },
     {
       "tag": "forge:feathers"

@@ -22,7 +22,7 @@
           "weight": 150
         },
         {
-          "block": "minecraft:iron_ore",
+          "block": "create:crushed_iron_ore",
           "weight": 50
         }
       ],

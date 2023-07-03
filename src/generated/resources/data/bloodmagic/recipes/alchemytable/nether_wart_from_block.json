@@ -2,11 +2,11 @@
   "type": "bloodmagic:alchemytable",
   "input": [
     {
-      "item": "minecraft:nether_wart_block"
+      "item": "tfc:food/tomato_block"
     }
   ],
   "output": {
-    "item": "minecraft:nether_wart"
+    "item": "tfc:food/tomato"
   },
   "syphon": 50,
   "ticks": 40,

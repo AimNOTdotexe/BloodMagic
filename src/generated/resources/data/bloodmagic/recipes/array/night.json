@@ -2,10 +2,10 @@
   "type": "bloodmagic:array",
   "texture": "bloodmagic:textures/models/alchemyarrays/moonarray.png",
   "baseinput": {
-    "item": "minecraft:lapis_lazuli"
+    "item": "tfc:ore/lapis_lazuli_lazuli"
   },
   "addedinput": {
-    "item": "minecraft:lapis_lazuli"
+    "item": "tfc:ore/lapis_lazuli_lazuli"
   },
   "output": {
     "item": "minecraft:bedrock"

@@ -6,7 +6,7 @@
     }
   ],
   "output": {
-    "item": "minecraft:gold_nugget",
+    "item": "tfc:ore/small_native_gold",
     "count": 9
   },
   "syphon": 200,

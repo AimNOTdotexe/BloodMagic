@@ -126,7 +126,7 @@
               "add": false
             }
           ],
-          "name": "minecraft:nether_wart"
+          "name": "tfc:food/tomato"
         },
         {
           "type": "minecraft:item",
@@ -194,7 +194,7 @@
               "add": false
             }
           ],
-          "name": "minecraft:ghast_tear"
+          "name": "tfc:powder/sulfur"
         },
         {
           "type": "minecraft:item",
@@ -211,7 +211,7 @@
               "add": false
             }
           ],
-          "name": "minecraft:glow_berries"
+          "name": "tfc:plant/arundo"
         },
         {
           "type": "minecraft:item",
@@ -228,7 +228,7 @@
               "add": false
             }
           ],
-          "name": "minecraft:amethyst_shard"
+          "name": "tfc:powder/amethyst"
         },
         {
           "type": "minecraft:item",

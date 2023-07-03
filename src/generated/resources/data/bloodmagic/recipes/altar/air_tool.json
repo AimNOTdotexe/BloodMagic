@@ -1,7 +1,7 @@
 {
   "type": "bloodmagic:altar",
   "input": {
-    "item": "minecraft:ghast_tear"
+    "item": "tfc:powder/sulfur"
   },
   "output": {
     "item": "bloodmagic:airscribetool",

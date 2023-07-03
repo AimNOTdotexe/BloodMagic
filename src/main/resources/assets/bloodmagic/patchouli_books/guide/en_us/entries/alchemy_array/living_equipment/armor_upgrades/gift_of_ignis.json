@@ -1,6 +1,6 @@
 {
   "name": "Gift of Ignis",
-  "icon": "minecraft:blaze_powder",
+  "icon": "tfc:ore/lignite",
   "category": "bloodmagic:alchemy_array/living_equipment/armor_upgrades",
   "pages": [
     {

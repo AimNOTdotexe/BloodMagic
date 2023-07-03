@@ -92,7 +92,7 @@
               "add": false
             }
           ],
-          "name": "minecraft:diamond"
+          "name": "tfc:gem/diamond"
         },
         {
           "type": "minecraft:item",
@@ -312,7 +312,7 @@
               "add": false
             }
           ],
-          "name": "minecraft:iron_nugget"
+          "name": "tfc:ore/small_hematite"
         },
         {
           "type": "minecraft:item",
@@ -346,7 +346,7 @@
               "add": false
             }
           ],
-          "name": "minecraft:gold_nugget"
+          "name": "tfc:ore/small_native_gold"
         },
         {
           "type": "minecraft:item",

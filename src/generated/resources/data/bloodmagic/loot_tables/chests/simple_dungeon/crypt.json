@@ -162,7 +162,7 @@
               "add": false
             }
           ],
-          "name": "minecraft:iron_ingot"
+          "name": "tfc:metal/ingot/wrought_iron"
         },
         {
           "type": "minecraft:item",
@@ -179,7 +179,7 @@
               "add": false
             }
           ],
-          "name": "minecraft:iron_nugget"
+          "name": "tfc:ore/small_hematite"
         },
         {
           "type": "minecraft:item",
@@ -196,7 +196,7 @@
               "add": false
             }
           ],
-          "name": "minecraft:diamond"
+          "name": "tfc:gem/diamond"
         },
         {
           "type": "minecraft:item",
@@ -230,7 +230,7 @@
               "add": false
             }
           ],
-          "name": "minecraft:gold_ingot"
+          "name": "tfc:metal/ingot/gold"
         },
         {
           "type": "minecraft:item",

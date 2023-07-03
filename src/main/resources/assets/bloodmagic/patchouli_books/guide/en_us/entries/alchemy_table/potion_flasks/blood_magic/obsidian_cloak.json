@@ -1,6 +1,6 @@
 {
   "name": "Obsidian Cloak",
-  "icon": "minecraft:diamond",
+  "icon": "tfc:gem/diamond",
   "category": "bloodmagic:alchemy_table/potion_flasks/blood_magic",
   "pages": [
     {

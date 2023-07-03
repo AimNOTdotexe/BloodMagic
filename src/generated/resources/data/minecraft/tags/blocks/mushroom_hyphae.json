@@ -1,13 +1,13 @@
 {
   "replace": false,
   "values": [
-    "minecraft:brown_mushroom_block",
-    "minecraft:red_mushroom_block",
+    "tfc:food/garlic_block",
+    "tfc:food/onion_block",
     "minecraft:crimson_hyphae",
     "minecraft:warped_hyphae",
     "minecraft:stripped_crimson_hyphae",
     "minecraft:stripped_warped_hyphae",
-    "minecraft:nether_wart_block",
+    "tfc:food/tomato_block",
     "minecraft:warped_wart_block",
     "minecraft:shroomlight"
   ]

@@ -10,7 +10,7 @@
     "tag": "forge:dusts/sulfur"
   },
   "input3": {
-    "item": "minecraft:potato"
+    "item": "tfc:food/potato"
   },
   "output": {
     "item": "bloodmagic:rawcatalyst"

@@ -309,7 +309,7 @@
               "add": false
             }
           ],
-          "name": "minecraft:wheat_seeds"
+          "name": "tfc:seeds/wheat"
         },
         {
           "type": "minecraft:item",

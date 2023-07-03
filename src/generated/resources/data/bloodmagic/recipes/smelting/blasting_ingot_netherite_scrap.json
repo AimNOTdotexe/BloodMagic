@@ -3,7 +3,7 @@
   "ingredient": {
     "tag": "forge:dusts/netherite_scrap"
   },
-  "result": "minecraft:netherite_scrap",
+  "result": "kubejs:red_steel_chain_mesh",
   "experience": 0.0,
   "cookingtime": 100
 }
