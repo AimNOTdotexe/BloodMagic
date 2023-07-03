@@ -1,7 +1,7 @@
 {
   "type": "bloodmagic:altar",
   "input": {
-    "tag": "forge:storage_blocks/gold"
+    "item": "tfc:metal/double_sheet/gold"
   },
   "output": {
     "item": "bloodmagic:magicianbloodorb"

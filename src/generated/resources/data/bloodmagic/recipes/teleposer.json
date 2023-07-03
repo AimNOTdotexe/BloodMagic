@@ -10,7 +10,7 @@
       "tag": "forge:ingots/gold"
     },
     "e": {
-      "tag": "forge:ender_pearls"
+      "item": "tfc:metal/horse_armor/copper"
     },
     "t": {
       "item": "bloodmagic:teleposerfocus"

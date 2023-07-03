@@ -10,14 +10,14 @@
       "tag": "forge:stone"
     },
     "f": {
-      "item": "minecraft:furnace"
+      "item": "minecraft:coal_block"
     },
     "o": {
       "type": "bloodmagic:bloodorb",
       "orb_tier": 3
     },
     "I": {
-      "tag": "forge:storage_blocks/iron"
+      "item": "tfc:metal/double_sheet/wrought_iron"
     },
     "S": {
       "item": "bloodmagic:infusedslate"

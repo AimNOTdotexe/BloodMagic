@@ -5,7 +5,7 @@
     "item": "bloodmagic:reagentbinding"
   },
   "addedinput": {
-    "item": "minecraft:iron_boots"
+    "item": "tfc:metal/boots/wrought_iron"
   },
   "output": {
     "item": "bloodmagic:livingboots",

@@ -1,7 +1,7 @@
 {
   "type": "bloodmagic:soulforge",
   "input0": {
-    "tag": "forge:ingots/iron"
+    "item": "tfc:metal/ingot/wrought_iron"
   },
   "input1": {
     "item": "bloodmagic:itemroutingnode"

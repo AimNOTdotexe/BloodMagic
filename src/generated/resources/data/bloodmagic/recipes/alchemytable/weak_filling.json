@@ -5,13 +5,13 @@
       "item": "bloodmagic:simplecatalyst"
     },
     {
-      "item": "minecraft:sugar_cane"
+      "item": "tfc:food/sugarcane"
     },
     {
-      "item": "minecraft:crimson_fungus"
+      "item": "minecraft:tfc:food/tomato"
     },
     {
-      "item": "minecraft:warped_fungus"
+      "item": "minecraft:tfc:food/tomato"
     }
   ],
   "output": {

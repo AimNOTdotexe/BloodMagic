@@ -45,7 +45,7 @@
       }
     ],
     "i": {
-      "tag": "forge:nuggets/iron"
+      "item": "tfc:ore/small_hematite"
     },
     "r": {
       "tag": "forge:dusts/redstone"

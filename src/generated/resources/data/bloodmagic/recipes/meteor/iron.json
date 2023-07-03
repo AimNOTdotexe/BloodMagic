@@ -1,7 +1,7 @@
 {
   "type": "bloodmagic:meteor",
   "input": {
-    "tag": "forge:storage_blocks/iron"
+    "item": "tfc:metal/double_sheet/wrought_iron"
   },
   "syphon": 1000000,
   "explosion": 14.0,

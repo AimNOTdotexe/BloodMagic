@@ -13,7 +13,7 @@
       "tag": "forge:ingots/gold"
     },
     "i": {
-      "tag": "forge:ingots/iron"
+      "item": "tfc:metal/ingot/wrought_iron"
     }
   },
   "result": {

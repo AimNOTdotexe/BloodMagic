@@ -1,6 +1,6 @@
 {
   "name": "Instant Damage",
-  "icon": "minecraft:iron_sword",
+  "icon": "tfc:metal/sword/wrought_iron",
   "category": "bloodmagic:alchemy_table/potion_flasks/vanilla",
   "pages": [
     {

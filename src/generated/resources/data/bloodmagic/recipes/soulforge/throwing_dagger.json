@@ -1,10 +1,10 @@
 {
   "type": "bloodmagic:soulforge",
   "input0": {
-    "tag": "forge:ingots/iron"
+    "item": "tfc:metal/ingot/wrought_iron"
   },
   "input1": {
-    "tag": "forge:ingots/iron"
+    "item": "tfc:metal/ingot/wrought_iron"
   },
   "input2": {
     "tag": "forge:string"

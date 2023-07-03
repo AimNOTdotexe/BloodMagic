@@ -5,10 +5,10 @@
       "item": "bloodmagic:slate_vial"
     },
     {
-      "tag": "forge:crops/nether_wart"
+      "item": "tfc:food/tomato"
     },
     {
-      "item": "minecraft:glistering_melon_slice"
+      "item": "tfc:food/squash"
     },
     {
       "tag": "forge:gems/quartz"

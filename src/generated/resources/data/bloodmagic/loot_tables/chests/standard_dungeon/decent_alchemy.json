@@ -347,7 +347,7 @@
               "add": false
             }
           ],
-          "name": "minecraft:glistering_melon_slice"
+          "name": "tfc:food/squash"
         },
         {
           "type": "minecraft:item",

@@ -1,6 +1,6 @@
 {
   "name": "Instant Health",
-  "icon": "minecraft:glistering_melon_slice",
+  "icon": "tfc:food/squash",
   "category": "bloodmagic:alchemy_table/potion_flasks/vanilla",
   "pages": [
     {

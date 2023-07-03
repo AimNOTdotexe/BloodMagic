@@ -10,7 +10,7 @@
     "item": "bloodmagic:infusedslate"
   },
   "input3": {
-    "tag": "forge:ingots/iron"
+    "item": "tfc:metal/ingot/wrought_iron"
   },
   "output": {
     "item": "bloodmagic:sanguinereverter",

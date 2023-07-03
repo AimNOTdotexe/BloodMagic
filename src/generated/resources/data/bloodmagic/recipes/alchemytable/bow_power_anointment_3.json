@@ -14,7 +14,7 @@
       "item": "tfc:plant/arundo"
     },
     {
-      "tag": "forge:ingots/iron"
+      "item": "tfc:metal/ingot/wrought_iron"
     }
   ],
   "output": {

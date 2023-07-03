@@ -14,7 +14,7 @@
       "tag": "forge:gunpowder"
     },
     {
-      "tag": "forge:crops/nether_wart"
+      "item": "tfc:food/tomato"
     }
   ],
   "output": {

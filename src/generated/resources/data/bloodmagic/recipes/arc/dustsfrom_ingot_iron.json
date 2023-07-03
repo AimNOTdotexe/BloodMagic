@@ -1,7 +1,7 @@
 {
   "type": "bloodmagic:arc",
   "input": {
-    "tag": "forge:ingots/iron"
+    "item": "tfc:metal/ingot/wrought_iron"
   },
   "inputsize": 1,
   "tool": {

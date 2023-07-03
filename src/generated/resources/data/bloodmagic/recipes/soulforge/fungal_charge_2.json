@@ -7,10 +7,10 @@
     "item": "minecraft:charcoal"
   },
   "input2": {
-    "tag": "minecraft:mushroom_hyphae"
+    "item": "tfc:food/onion"
   },
   "input3": {
-    "tag": "forge:mushrooms"
+    "item": "tfc:food/onion"
   },
   "output": {
     "item": "bloodmagic:fungal_charge_2",

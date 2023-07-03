@@ -210,7 +210,7 @@
               "add": false
             }
           ],
-          "name": "minecraft:sugar_cane"
+          "name": "tfc:food/sugarcane"
         },
         {
           "type": "minecraft:item",

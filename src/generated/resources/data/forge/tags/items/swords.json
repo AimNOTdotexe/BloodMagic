@@ -3,7 +3,7 @@
   "values": [
     "minecraft:diamond_sword",
     "minecraft:golden_sword",
-    "minecraft:iron_sword",
+    "tfc:metal/sword/wrought_iron",
     "minecraft:netherite_sword",
     "minecraft:stone_sword",
     "minecraft:wooden_sword",

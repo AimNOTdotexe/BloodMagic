@@ -13,10 +13,10 @@
       "item": "bloodmagic:blankslate"
     },
     "i": {
-      "tag": "forge:ingots/iron"
+      "item": "tfc:metal/ingot/wrought_iron"
     },
     "o": {
-      "tag": "forge:storage_blocks/iron"
+      "item": "tfc:metal/double_sheet/wrought_iron"
     }
   },
   "result": {

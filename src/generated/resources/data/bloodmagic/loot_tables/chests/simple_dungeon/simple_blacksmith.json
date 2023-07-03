@@ -283,7 +283,7 @@
               "add": false
             }
           ],
-          "name": "minecraft:iron_sword"
+          "name": "tfc:metal/sword/wrought_iron"
         },
         {
           "type": "minecraft:item",
@@ -418,7 +418,7 @@
               "add": false
             }
           ],
-          "name": "minecraft:iron_sword"
+          "name": "tfc:metal/sword/wrought_iron"
         },
         {
           "type": "minecraft:item",

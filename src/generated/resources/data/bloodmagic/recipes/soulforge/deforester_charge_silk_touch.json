@@ -4,13 +4,13 @@
     "item": "bloodmagic:deforester_charge"
   },
   "input1": {
-    "tag": "forge:crops/nether_wart"
+    "item": "tfc:food/tomato"
   },
   "input2": {
     "item": "minecraft:cobweb"
   },
   "input3": {
-    "tag": "forge:nuggets/gold"
+    "item": "tfc:ore/small_native_gold"
   },
   "output": {
     "item": "bloodmagic:deforester_charge",

@@ -5,7 +5,7 @@
     "item": "bloodmagic:reagentbinding"
   },
   "addedinput": {
-    "item": "minecraft:iron_leggings"
+    "item": "tfc:metal/greaves/wrought_iron"
   },
   "output": {
     "item": "bloodmagic:livingleggings",

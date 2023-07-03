@@ -398,7 +398,7 @@
               "add": false
             }
           ],
-          "name": "minecraft:iron_boots"
+          "name": "tfc:metal/boots/wrought_iron"
         },
         {
           "type": "minecraft:item",
@@ -428,7 +428,7 @@
               "add": false
             }
           ],
-          "name": "minecraft:iron_chestplate"
+          "name": "tfc:metal/chestplate/wrought_iron"
         },
         {
           "type": "minecraft:item",
@@ -458,7 +458,7 @@
               "add": false
             }
           ],
-          "name": "minecraft:iron_helmet"
+          "name": "tfc:metal/helmet/wrought_iron"
         },
         {
           "type": "minecraft:item",
@@ -488,7 +488,7 @@
               "add": false
             }
           ],
-          "name": "minecraft:iron_leggings"
+          "name": "tfc:metal/greaves/wrought_iron"
         },
         {
           "type": "minecraft:item",

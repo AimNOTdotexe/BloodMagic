@@ -7,7 +7,7 @@
     "tag": "forge:gems/diamond"
   },
   "input2": {
-    "tag": "forge:storage_blocks/gold"
+    "item": "tfc:metal/double_sheet/gold"
   },
   "input3": {
     "item": "bloodmagic:infusedslate"

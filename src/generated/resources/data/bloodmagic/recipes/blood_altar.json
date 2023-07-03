@@ -10,7 +10,7 @@
       "tag": "forge:stone"
     },
     "b": {
-      "item": "minecraft:furnace"
+      "item": "minecraft:coal_block"
     },
     "c": {
       "tag": "forge:ingots/gold"

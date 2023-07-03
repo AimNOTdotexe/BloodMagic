@@ -1,7 +1,7 @@
 {
   "type": "bloodmagic:soulforge",
   "input0": {
-    "tag": "forge:crops/nether_wart"
+    "item": "tfc:food/tomato"
   },
   "input1": {
     "item": "bloodmagic:tauoil"

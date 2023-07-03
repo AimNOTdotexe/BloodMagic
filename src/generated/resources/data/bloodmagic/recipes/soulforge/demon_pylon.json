@@ -24,7 +24,7 @@
     "tag": "forge:gems/lapis"
   },
   "input3": {
-    "tag": "forge:storage_blocks/iron"
+    "item": "tfc:metal/double_sheet/wrought_iron"
   },
   "output": {
     "item": "bloodmagic:demonpylon"

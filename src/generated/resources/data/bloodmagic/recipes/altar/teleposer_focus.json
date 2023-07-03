@@ -1,7 +1,7 @@
 {
   "type": "bloodmagic:altar",
   "input": {
-    "tag": "forge:ender_pearls"
+    "item": "tfc:metal/horse_armor/copper"
   },
   "output": {
     "item": "bloodmagic:teleposerfocus"

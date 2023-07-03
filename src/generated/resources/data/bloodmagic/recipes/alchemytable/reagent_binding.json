@@ -11,7 +11,7 @@
       "tag": "forge:gunpowder"
     },
     {
-      "tag": "forge:nuggets/gold"
+      "item": "tfc:ore/small_native_gold"
     }
   ],
   "output": {

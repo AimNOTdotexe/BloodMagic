@@ -7,7 +7,7 @@
   ],
   "key": {
     "b": {
-      "item": "minecraft:enchanted_book"
+      "item": "tfc:blank_disc"
     },
     "s": {
       "tag": "forge:string"

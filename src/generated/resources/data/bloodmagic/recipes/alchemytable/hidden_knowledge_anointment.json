@@ -5,13 +5,13 @@
       "item": "bloodmagic:slate_vial"
     },
     {
-      "tag": "forge:crops/nether_wart"
+      "item": "tfc:food/tomato"
     },
     {
       "item": "tfc:wooden_bucket"
     },
     {
-      "item": "minecraft:enchanted_book"
+      "item": "tfc:blank_disc"
     }
   ],
   "output": {

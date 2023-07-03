@@ -4,10 +4,10 @@
     "item": "bloodmagic:fungal_charge"
   },
   "input1": {
-    "tag": "forge:crops/nether_wart"
+    "item": "tfc:food/tomato"
   },
   "input2": {
-    "item": "minecraft:furnace"
+    "item": "minecraft:coal_block"
   },
   "input3": [
     {

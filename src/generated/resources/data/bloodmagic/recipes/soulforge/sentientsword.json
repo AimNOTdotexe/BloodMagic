@@ -4,7 +4,7 @@
     "item": "bloodmagic:soulgempetty"
   },
   "input1": {
-    "item": "minecraft:iron_sword"
+    "item": "tfc:metal/sword/wrought_iron"
   },
   "output": {
     "item": "bloodmagic:soulsword",
